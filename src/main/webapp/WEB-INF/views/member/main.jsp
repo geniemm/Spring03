@@ -7,10 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h5>멤버 리스트</h5>
-<table>
-
-
-</table>
+	<h3>메인페이지</h3>
+	
+	<a href="member_list">모든 회원 보기</a>
 </body>
 </html>
